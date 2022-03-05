@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Parasdave420
 - 👀 I’m interested in python and Data Science.
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on web development projects.
 
 <!---
 Parasdave420/Parasdave420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
